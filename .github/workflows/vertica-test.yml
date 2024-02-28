@@ -1,4 +1,4 @@
-name: Test package against latest Vertica
+name: Test package against Vertica 12.0.4-0 with Python 3.8
 
 # Triggers the workflow on push or pull request events
 on: [push, workflow_dispatch]
